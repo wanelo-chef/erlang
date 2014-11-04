@@ -1,1 +1,1 @@
-default['erlang']['package']['version'] = '16.1.2nb2'
+default['erlang']['package']['version'] = '16'
